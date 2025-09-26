@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: indusree-container
-        image: indusree/myappimgv
+        image: indusreet02/myappimgv
         ports:
         - containerPort: 8080
 ---
